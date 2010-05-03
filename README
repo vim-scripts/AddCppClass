@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2986
+
+this plugin is to help you add a c++ class conveniently. 
+after you install this plugin, type :AddCppClass under normal mode, you will be leaded to a wizard that help you add a c++ class.
+
+
+contact me if you have any question or suggestion. (email: xuhdev AT gmail DOT com)

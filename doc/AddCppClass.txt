@@ -1,0 +1,30 @@
+*AddCppClass.txt* Plugin for adding cpp classes conveniently
+
+File: AddCppClass.vim
+Version: 0.1.2
+Author: Hong Xu(xuphys AT gmail DOT com)
+Last Change: 3 May 2010
+Description: this plugin aims to let users add cpp classes conveniently  
+License: You can redistribute this plugin and / or modify it under the terms 
+         of the GNU General Public License as published by the Free Software 
+         Foundation; either version 2, or any later version. 
+
+                                            *AddCppClass*
+Commands:
+    :AddCppClass
+    this command will lead you to a wizard which allows you to add a cpp class
+
+if you like, you can add some shortcuts, such as:
+    map <F12> :AddCppClass<cr>
+then when you press F12 on your keyboard, the class adding wizard will start
+
+                                            *AddCppClass-settings*
+This plugin does not have any setting.
+
+
+                                            *AddCppClass-installation*
+Download the AddCppClass.zip file and extract it to your vim runtime
+directory(~/.vim on linux and $VIM_INSTALLATION_FOLDER\vimfiles on windows),
+the plugin is installed correctly in this way.
+
+vim:ts=4:ft=help
